@@ -1,37 +1,0 @@
-9
-
-dir
-289
-http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox
-http://google-maps-utility-library-v3.googlecode.com/svn
-
-
-
-2011-03-07T16:37:15.433484Z
-272
-garylittleRLP
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-b4c4f48c-70f0-11de-9ad3-cbed566d3045
-
-src
-dir
-
-docs
-dir
-
-examples
-dir
-
